@@ -1,0 +1,10 @@
+{
+    "category": "Flowers",
+    "version": 2,
+    "words": {
+        "5": ["daisy", "pansy", "tulip", "aster", "lilac", "poppy", "peony", "lupin", "viola", "stock", "tansy", "phlox", "orris"],
+        "6": ["orchid", "dahlia", "crocus", "azalea", "violet", "zinnia", "cosmos", "salvia", "hyssop", "mallow", "cactus", "nerine", "cleome", "thrift", "yarrow", "spurge", "clover", "sundew", "oxalis"],
+        "7": ["jasmine", "petunia", "freesia", "fuchsia", "begonia", "lobelia", "campion", "verbena", "anemone", "primula", "cowslip", "gerbera", "alyssum", "lantana", "nigella", "nemesia", "mimulus", "statice", "deutzia"],
+        "8": ["lavender", "bluebell", "daffodil", "marigold", "snowdrop", "hyacinth", "geranium", "gardenia", "hibiscus", "camellia", "foxglove", "primrose", "magnolia", "clematis", "cyclamen", "dianthus", "gloxinia", "wisteria", "amaranth", "larkspur"]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Countries",
+    "version": 2,
+    "words": {
+        "4": ["chad", "cuba", "fiji", "iran", "iraq", "laos", "mali", "oman", "peru", "togo"],
+        "5": ["chile", "china", "egypt", "ghana", "india", "italy", "japan", "kenya", "spain", "nepal", "benin", "gabon", "haiti", "libya", "malta", "niger", "qatar", "samoa", "syria", "tonga"],
+        "6": ["brazil", "canada", "greece", "jordan", "mexico", "norway", "poland", "russia", "sweden", "france", "belize", "bhutan", "brunei", "cyprus", "guyana", "israel", "kuwait", "latvia", "malawi", "panama"],
+        "7": ["algeria", "austria", "belgium", "croatia", "denmark", "ecuador", "finland", "germany", "hungary", "ireland", "andorra", "bahrain", "bolivia", "burundi", "comoros", "eritrea", "georgia", "grenada", "iceland", "jamaica"],
+        "8": ["cambodia", "colombia", "ethiopia", "malaysia", "mongolia", "pakistan", "portugal", "thailand", "paraguay", "botswana", "barbados", "cameroon", "djibouti", "dominica", "honduras", "kiribati", "maldives", "tanzania", "zimbabwe", "suriname"]
+    }
+}

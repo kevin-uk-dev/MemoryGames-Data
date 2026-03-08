@@ -1,0 +1,12 @@
+{
+    "category": "Animals",
+    "version": 2,
+    "words": {
+        "3": ["cat", "dog", "cow", "hen", "pig", "rat", "bat", "ant", "ape", "emu", "fox", "owl", "yak", "ram", "elk", "jay", "bee", "gnu", "fly", "bug"],
+        "4": ["bear", "deer", "frog", "lion", "duck", "goat", "lamb", "mole", "seal", "wolf", "bull", "calf", "crow", "dove", "hare", "hawk", "mare", "moth", "newt", "pony"],
+        "5": ["eagle", "horse", "whale", "tiger", "snake", "shark", "camel", "bison", "crane", "otter", "goose", "mouse", "raven", "robin", "stork", "zebra", "hippo", "koala", "llama", "moose"],
+        "6": ["rabbit", "parrot", "jaguar", "badger", "ferret", "donkey", "falcon", "lizard", "monkey", "turtle", "beaver", "coyote", "pigeon", "walrus", "weasel", "alpaca", "iguana", "osprey", "toucan", "condor"],
+        "7": ["dolphin", "giraffe", "penguin", "buffalo", "cheetah", "gorilla", "hamster", "panther", "pelican", "sparrow", "chicken", "gazelle", "leopard", "macaque", "manatee", "mustang", "octopus", "raccoon", "termite", "wallaby"],
+        "8": ["elephant", "flamingo", "hedgehog", "kangaroo", "squirrel", "antelope", "chipmunk", "reindeer", "tortoise", "pheasant", "aardvark", "bluebird", "cardinal", "cockatoo", "mongoose", "parakeet", "platypus", "porpoise", "pangolin", "mandrill"]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Fruits",
+    "version": 3,
+    "words": {
+        "4": ["kiwi", "lime", "pear", "plum", "date", "sloe", "noni", "ugli", "goji", "gage", "yuzu", "nipa", "bael", "haws"],
+        "5": ["apple", "grape", "lemon", "mango", "melon", "peach", "guava", "olive", "prune", "berry", "papaw", "gourd", "naras", "navel"],
+        "6": ["banana", "cherry", "orange", "papaya", "lychee", "quince", "damson", "longan", "durian", "medlar", "pomelo", "pawpaw", "feijoa", "jujube", "sapote", "casaba", "citron", "muscat", "raisin", "tomato"],
+        "7": ["avocado", "apricot", "coconut", "kumquat", "satsuma", "tangelo", "currant", "sultana", "soursop", "morello", "rosehip", "genipap", "atemoya", "calaloo"],
+        "8": ["mandarin", "tamarind", "honeydew", "rambutan", "bilberry", "mulberry", "plantain", "bergamot", "dewberry", "bayberry", "tayberry", "physalis", "barberry", "canistel"]
+    }
+}

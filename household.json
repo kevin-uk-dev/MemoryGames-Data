@@ -1,0 +1,12 @@
+{
+    "category": "Household",
+    "version": 2,
+    "words": {
+        "3": ["mop", "cup", "mug", "pan", "pot", "rug", "bin", "jug", "fan", "mat", "tap", "jar", "box", "bag", "lid", "peg", "tin", "wok", "tub", "rod"],
+        "4": ["bowl", "lamp", "sofa", "vase", "fork", "tray", "soap", "iron", "plug", "rack", "desk", "sink", "oven", "door", "bell", "tile", "hook", "lock", "knob", "comb"],
+        "5": ["chair", "table", "towel", "clock", "brush", "broom", "plate", "shelf", "stool", "spoon", "knife", "glass", "couch", "dryer", "frame", "light", "blind", "scale", "whisk", "ladle"],
+        "6": ["pillow", "mirror", "basket", "bucket", "carpet", "faucet", "sponge", "teapot", "napkin", "hanger", "kettle", "shower", "drawer", "heater", "candle", "cooker", "vacuum", "closet", "pantry", "grater"],
+        "7": ["blanket", "cabinet", "cushion", "curtain", "dustpan", "freezer", "platter", "toaster", "utensil", "dresser", "blender", "coaster", "skillet", "spatula", "steamer", "charger", "pitcher", "counter", "shutter", "griddle"],
+        "8": ["armchair", "bookcase", "colander", "cupboard", "doorbell", "mattress", "radiator", "scissors", "umbrella", "wardrobe", "doorknob", "crockery", "cookbook", "doorstep", "saucepan", "canister", "strainer", "ornament", "tabletop", "figurine"]
+    }
+}

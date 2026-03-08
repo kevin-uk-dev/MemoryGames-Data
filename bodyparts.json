@@ -1,0 +1,12 @@
+{
+    "category": "Body Parts",
+    "version": 2,
+    "words": {
+        "3": ["arm", "ear", "eye", "hip", "jaw", "leg", "lip", "rib", "toe", "gum"],
+        "4": ["back", "chin", "foot", "hand", "head", "heel", "knee", "neck", "shin", "palm", "bone", "calf", "lobe", "nail", "nose", "skin", "vein", "womb", "iris", "lung"],
+        "5": ["ankle", "brain", "chest", "elbow", "heart", "liver", "mouth", "skull", "spine", "thumb", "cheek", "colon", "gland", "groin", "joint", "nerve", "pupil", "thigh", "torso", "wrist"],
+        "6": ["finger", "kidney", "muscle", "pelvis", "temple", "throat", "tonsil", "tongue", "armpit", "spleen", "retina", "cornea", "larynx", "tendon", "biceps", "rectum", "thorax", "marrow", "fibula", "radius"],
+        "7": ["abdomen", "forearm", "kneecap", "eardrum", "nostril", "knuckle", "sternum", "trachea", "stomach", "bladder", "thyroid", "cranium", "jawbone", "patella", "scapula", "humerus", "triceps", "cochlea", "toenail", "midriff"],
+        "8": ["shoulder", "forehead", "ligament", "vertebra", "shinbone", "windpipe", "backbone", "clavicle", "pancreas", "appendix", "cerebrum", "mandible", "tailbone", "duodenum", "membrane", "follicle"]
+    }
+}

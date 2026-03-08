@@ -1,0 +1,10 @@
+{
+    "category": "Trees",
+    "version": 2,
+    "words": {
+        "5": ["birch", "beech", "cedar", "maple", "alder", "aspen", "hazel", "holly", "rowan", "elder", "sumac", "yucca", "larch", "osier", "plane"],
+        "6": ["willow", "spruce", "laurel", "poplar", "linden", "baobab", "myrtle", "acacia", "bamboo", "mimosa", "walnut", "almond", "locust", "tupelo", "privet", "cashew", "banyan", "ginkgo"],
+        "7": ["cypress", "hemlock", "hickory", "redwood", "sequoia", "juniper", "dogwood", "catalpa", "buckeye", "filbert", "boxwood", "conifer", "palmyra", "zelkova", "arbutus"],
+        "8": ["sycamore", "magnolia", "chestnut", "mahogany", "ironwood", "sourwood", "tamarack", "eucalypt", "hornbeam", "hawthorn", "rosewood", "basswood", "laburnum", "oleander", "palmetto", "ironbark", "cinnamon", "calabash"]
+    }
+}
