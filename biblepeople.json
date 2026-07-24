@@ -1,0 +1,11 @@
+{
+    "category": "Bible People",
+    "version": 1,
+    "words": {
+        "3": ["eve", "job", "eli", "dan", "ham", "lot", "gad", "asa"],
+        "4": ["adam", "noah", "abel", "cain", "ruth", "esau", "saul", "mary", "john", "joel", "amos", "ezra", "leah", "levi", "seth", "anna", "mark", "luke", "paul", "boaz"],
+        "5": ["moses", "david", "jesus", "peter", "james", "sarah", "isaac", "jacob", "aaron", "jonah", "hosea", "micah", "nahum", "silas", "titus", "enoch", "laban", "rahab", "naomi", "herod"],
+        "6": ["joseph", "samuel", "elijah", "esther", "isaiah", "daniel", "joshua", "gideon", "martha", "thomas", "andrew", "philip", "rachel", "miriam", "hannah", "elisha", "josiah", "samson", "reuben", "simeon"],
+        "7": ["abraham", "solomon", "ezekiel", "matthew", "stephen", "timothy", "deborah", "delilah", "goliath", "lazarus", "gabriel", "rebekah", "obadiah", "malachi", "jezebel", "zebedee", "absalom", "ephraim", "ishmael", "michael"]
+    }
+}

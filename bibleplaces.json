@@ -1,0 +1,10 @@
+{
+    "category": "Bible Places",
+    "version": 1,
+    "words": {
+        "4": ["eden", "gaza", "cana", "moab", "tyre", "gath", "nile", "zion", "edom"],
+        "5": ["egypt", "sinai", "judea", "babel", "sodom", "endor", "haran", "joppa", "sheba", "horeb", "berea"],
+        "6": ["canaan", "hebron", "bethel", "gilead", "goshen", "ararat", "shiloh", "gilgal", "carmel", "emmaus", "midian", "patmos", "tarsus", "gibeon"],
+        "7": ["jericho", "galilee", "nineveh", "bethany", "samaria", "antioch", "corinth", "ephesus", "calvary", "babylon", "galatia"]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Christian Words",
+    "version": 1,
+    "words": {
+        "3": ["sin", "god", "son", "ark", "pew", "joy", "law", "nun"],
+        "4": ["pray", "holy", "hymn", "amen", "alms", "halo", "abba", "font", "mass", "monk", "soul", "fast", "tomb"],
+        "5": ["faith", "grace", "mercy", "bible", "cross", "angel", "altar", "psalm", "glory", "satan", "devil", "creed", "manna", "vicar", "friar", "abbey", "tithe", "saint", "carol"],
+        "6": ["gospel", "church", "priest", "prayer", "parish", "deacon", "bishop", "chapel", "heaven", "spirit", "belief", "sermon", "cherub", "advent", "easter", "repent", "rosary", "martyr", "pulpit"],
+        "7": ["baptism", "worship", "apostle", "prophet", "miracle", "sabbath", "messiah", "penance", "convent", "steeple", "chalice", "trinity", "incense", "pilgrim", "vespers", "diocese", "epistle", "creator"]
+    }
+}

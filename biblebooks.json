@@ -1,0 +1,10 @@
+{
+    "category": "Bible Books",
+    "version": 1,
+    "words": {
+        "4": ["acts", "mark", "luke", "john", "ruth", "joel", "amos", "ezra", "jude"],
+        "5": ["kings", "hosea", "jonah", "micah", "nahum", "titus", "james", "peter"],
+        "6": ["psalms", "isaiah", "daniel", "esther", "exodus", "judges", "romans", "haggai", "samuel", "joshua"],
+        "7": ["genesis", "numbers", "matthew", "hebrews", "ezekiel", "obadiah", "malachi", "timothy"]
+    }
+}
