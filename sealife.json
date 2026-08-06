@@ -1,12 +1,12 @@
 {
     "category": "Sea Life",
-    "version": 3,
+    "version": 4,
     "words": {
         "4": ["bass", "carp", "crab", "clam", "dace", "hake", "pike", "shad", "sole", "tuna", "char", "dory", "drum", "goby", "rudd", "scad", "barb", "gilt", "orfe", "dabs"],
         "5": ["bream", "coral", "prawn", "squid", "trout", "conch", "perch", "smelt", "sprat", "skate", "bleak", "brill", "guppy", "molly", "roach", "tench", "wahoo", "wrack", "whelk", "polyp"],
         "6": ["salmon", "mullet", "oyster", "marlin", "minnow", "shrimp", "turbot", "mussel", "plaice", "wrasse", "bonito", "dorado", "dugong", "urchin", "limpet", "sponge", "winkle", "conger", "darter", "sucker"],
         "7": ["catfish", "lobster", "herring", "sardine", "snapper", "grouper", "anchovy", "piranha", "halibut", "haddock", "anemone", "codfish", "dogfish", "garfish", "gurnard", "lamprey", "oarfish", "sunfish", "sculpin", "whiting"],
-        "8": ["mackerel", "starfish", "sturgeon", "flounder", "blowfish", "pilchard", "seahorse", "crawfish", "barnacle", "stingray", "albacore", "bluegill", "crayfish", "kingfish", "lionfish", "monkfish", "sailfish", "smelting", "tilefish", "wolffish"]
+        "8": ["mackerel", "starfish", "sturgeon", "flounder", "blowfish", "pilchard", "seahorse", "crawfish", "barnacle", "stingray", "albacore", "bluegill", "crayfish", "kingfish", "lionfish", "monkfish", "sailfish", "tilefish", "wolffish"]
     },
     "facts": {
         "bass": "Bass is a popular fish found in both fresh and salt water.",
@@ -106,7 +106,6 @@
         "lionfish": "Lionfish is a fish with venomous, feathery spines.",
         "monkfish": "Monkfish is a fish known for its large head and firm tail meat.",
         "sailfish": "Sailfish is a fast fish with a tall, sail-like fin on its back.",
-        "smelting": "Smelting here refers to a small silvery fish similar to the smelt.",
         "tilefish": "Tilefish is a colourful fish found near burrows on the sea floor.",
         "wolffish": "Wolffish is a large fish with strong jaws and prominent teeth."
     }

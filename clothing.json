@@ -1,12 +1,12 @@
 {
     "category": "Clothing",
-    "version": 3,
+    "version": 4,
     "words": {
         "4": ["boot", "coat", "gown", "vest", "belt", "cape", "robe", "sock", "wrap", "suit", "kilt", "muff", "sari", "tutu", "toga", "cowl", "clog", "sash", "slip", "hood"],
         "5": ["dress", "glove", "jeans", "scarf", "shirt", "skirt", "shawl", "cloak", "apron", "parka", "tunic", "smock", "beret", "stole", "frock", "visor", "pumps", "thong", "teddy", "wader"],
         "6": ["blazer", "bonnet", "jacket", "jumper", "sandal", "shorts", "tuxedo", "anorak", "bikini", "mitten", "blouse", "briefs", "corset", "fedora", "girdle", "jersey", "kimono", "poncho", "sarong", "turban"],
         "7": ["sweater", "necktie", "overall", "pajamas", "slipper", "sneaker", "leotard", "tankini", "rompers", "uniform", "bustier", "chemise", "doublet", "garment", "hosiery", "singlet", "topcoat", "yashmak", "cassock", "mantlet"],
-        "8": ["cardigan", "overcoat", "swimsuit", "raincoat", "pullover", "camisole", "leggings", "bathrobe", "jumpsuit", "coverall", "knickers", "negligee", "trousers", "breeches", "dressing", "gauntlet", "jodhpurs", "kerchief", "mackinaw", "vestment"]
+        "8": ["cardigan", "overcoat", "swimsuit", "raincoat", "pullover", "camisole", "leggings", "bathrobe", "jumpsuit", "coverall", "knickers", "negligee", "trousers", "breeches", "gauntlet", "jodhpurs", "kerchief", "mackinaw", "vestment"]
     },
     "facts": {
         "boot": "A boot is a sturdy shoe that covers the foot and ankle.",
@@ -103,7 +103,6 @@
         "negligee": "A negligee is a light, decorative dressing gown or nightdress.",
         "trousers": "Trousers are a garment covering the legs separately, worn from the waist.",
         "breeches": "Breeches are trousers that fasten just below the knee.",
-        "dressing": "Dressing, as in a dressing gown, is a light robe worn at home.",
         "gauntlet": "A gauntlet is a protective glove that covers part of the arm.",
         "jodhpurs": "Jodhpurs are riding trousers, fitted at the calf and loose at the hip.",
         "kerchief": "A kerchief is a piece of cloth worn over the head or around the neck.",
