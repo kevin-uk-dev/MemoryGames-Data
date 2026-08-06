@@ -1,13 +1,12 @@
 {
     "category": "Household",
-    "version": 3,
+    "version": 4,
     "words": {
         "3": ["mop", "cup", "mug", "pan", "pot", "rug", "bin", "jug", "fan", "mat", "tap", "jar", "box", "bag", "lid", "peg", "tin", "wok", "tub", "rod"],
         "4": ["bowl", "lamp", "sofa", "vase", "fork", "tray", "soap", "iron", "plug", "rack", "desk", "sink", "oven", "door", "bell", "tile", "hook", "lock", "knob", "comb"],
         "5": ["chair", "table", "towel", "clock", "brush", "broom", "plate", "shelf", "stool", "spoon", "knife", "glass", "couch", "dryer", "frame", "light", "blind", "scale", "whisk", "ladle"],
         "6": ["pillow", "mirror", "basket", "bucket", "carpet", "faucet", "sponge", "teapot", "napkin", "hanger", "kettle", "shower", "drawer", "heater", "candle", "cooker", "vacuum", "closet", "pantry", "grater"],
-        "7": ["blanket", "cabinet", "cushion", "curtain", "dustpan", "freezer", "platter", "toaster", "utensil", "dresser", "blender", "coaster", "skillet", "spatula", "steamer", "charger", "pitcher", "counter", "shutter", "griddle"],
-        "8": ["armchair", "bookcase", "colander", "cupboard", "doorbell", "mattress", "radiator", "scissors", "umbrella", "wardrobe", "doorknob", "crockery", "cookbook", "doorstep", "saucepan", "canister", "strainer", "ornament", "tabletop", "figurine"]
+        "7": ["blanket", "cabinet", "cushion", "curtain", "dustpan", "freezer", "platter", "toaster", "utensil", "dresser", "blender", "coaster", "skillet", "spatula", "steamer", "charger", "pitcher", "counter", "shutter", "griddle"]
     },
     "facts": {
         "mop": "A mop is used to clean floors with water or cleaning liquid.",
@@ -109,26 +108,6 @@
         "pitcher": "A pitcher is a container used to hold and pour liquids.",
         "counter": "A counter is a flat surface used for preparing food.",
         "shutter": "A shutter covers a window to block light or provide security.",
-        "griddle": "A griddle is a flat surface used for cooking food.",
-        "armchair": "An armchair is a comfortable chair with supports for the arms.",
-        "bookcase": "A bookcase is a piece of furniture used to store books.",
-        "colander": "A colander is used to drain water from washed or cooked food.",
-        "cupboard": "A cupboard is a piece of furniture with doors, used for storage.",
-        "doorbell": "A doorbell rings to let people know someone is at the door.",
-        "mattress": "A mattress is the padded part of a bed used for sleeping on.",
-        "radiator": "A radiator heats a room using hot water or electricity.",
-        "scissors": "Scissors are used to cut paper, fabric, or other materials.",
-        "umbrella": "An umbrella is used to keep dry in the rain.",
-        "wardrobe": "A wardrobe is a tall cupboard used to store clothes.",
-        "doorknob": "A doorknob is the round handle used to open a door.",
-        "crockery": "Crockery refers to plates, cups, and dishes used at meals.",
-        "cookbook": "A cookbook is a book containing recipes for preparing food.",
-        "doorstep": "A doorstep is the step just outside an entrance door.",
-        "saucepan": "A saucepan is a deep pan with a handle, used for cooking.",
-        "canister": "A canister is a container used to store dry food like tea or sugar.",
-        "strainer": "A strainer is used to separate liquid from solid food.",
-        "ornament": "An ornament is a decorative object displayed in a home.",
-        "tabletop": "A tabletop is the flat upper surface of a table.",
-        "figurine": "A figurine is a small decorative statue or ornament."
+        "griddle": "A griddle is a flat surface used for cooking food."
     }
 }

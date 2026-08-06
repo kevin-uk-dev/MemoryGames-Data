@@ -1,11 +1,10 @@
 {
     "category": "Trees",
-    "version": 3,
+    "version": 4,
     "words": {
         "5": ["birch", "beech", "cedar", "maple", "alder", "aspen", "hazel", "holly", "rowan", "elder", "sumac", "yucca", "larch", "osier", "plane"],
         "6": ["willow", "spruce", "laurel", "poplar", "linden", "baobab", "myrtle", "acacia", "bamboo", "mimosa", "walnut", "almond", "locust", "tupelo", "privet", "cashew", "banyan", "ginkgo"],
-        "7": ["cypress", "hemlock", "hickory", "redwood", "sequoia", "juniper", "dogwood", "catalpa", "buckeye", "filbert", "boxwood", "conifer", "palmyra", "zelkova", "arbutus"],
-        "8": ["sycamore", "magnolia", "chestnut", "mahogany", "ironwood", "sourwood", "tamarack", "eucalypt", "hornbeam", "hawthorn", "rosewood", "basswood", "laburnum", "oleander", "palmetto", "ironbark", "cinnamon", "calabash"]
+        "7": ["cypress", "hemlock", "hickory", "redwood", "sequoia", "juniper", "dogwood", "catalpa", "buckeye", "filbert", "boxwood", "conifer", "palmyra", "zelkova", "arbutus"]
     },
     "facts": {
         "birch": "Birch is a tree with thin, papery white bark.",
@@ -55,24 +54,6 @@
         "conifer": "Conifer is a tree that bears cones and usually keeps its needles year-round.",
         "palmyra": "Palmyra is a tall palm tree found in tropical regions.",
         "zelkova": "Zelkova is a tree related to elm, valued for its shade.",
-        "arbutus": "Arbutus is a tree with peeling red bark and red berries.",
-        "sycamore": "Sycamore is a tree with broad leaves and flaking bark.",
-        "magnolia": "Magnolia is a tree known for its large, showy flowers.",
-        "chestnut": "Chestnut is a tree that produces edible nuts in spiky husks.",
-        "mahogany": "Mahogany is a tree valued for its strong, reddish-brown wood.",
-        "ironwood": "Ironwood is a tree with exceptionally dense, hard wood.",
-        "sourwood": "Sourwood is a tree with sour-tasting leaves and drooping flowers.",
-        "tamarack": "Tamarack is a tree that sheds its needles every autumn.",
-        "eucalypt": "Eucalypt is a tree with aromatic leaves, native to Australia.",
-        "hornbeam": "Hornbeam is a tree with tough wood and ridged bark.",
-        "hawthorn": "Hawthorn is a thorny tree with white spring blossom and red berries.",
-        "rosewood": "Rosewood is a tree prized for its fragrant, richly coloured wood.",
-        "basswood": "Basswood is a tree with soft wood often used for carving.",
-        "laburnum": "Laburnum is a tree with hanging chains of yellow flowers.",
-        "oleander": "Oleander is a shrub-like tree with pink or white flowers.",
-        "palmetto": "Palmetto is a small palm tree with fan-shaped leaves.",
-        "ironbark": "Ironbark is a tree with hard, deeply furrowed bark.",
-        "cinnamon": "Cinnamon is a tree whose bark is dried and used as a spice.",
-        "calabash": "Calabash is a tree that produces large, gourd-like fruit."
+        "arbutus": "Arbutus is a tree with peeling red bark and red berries."
     }
 }

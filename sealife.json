@@ -1,12 +1,11 @@
 {
     "category": "Sea Life",
-    "version": 4,
+    "version": 5,
     "words": {
         "4": ["bass", "carp", "crab", "clam", "dace", "hake", "pike", "shad", "sole", "tuna", "char", "dory", "drum", "goby", "rudd", "scad", "barb", "gilt", "orfe", "dabs"],
         "5": ["bream", "coral", "prawn", "squid", "trout", "conch", "perch", "smelt", "sprat", "skate", "bleak", "brill", "guppy", "molly", "roach", "tench", "wahoo", "wrack", "whelk", "polyp"],
         "6": ["salmon", "mullet", "oyster", "marlin", "minnow", "shrimp", "turbot", "mussel", "plaice", "wrasse", "bonito", "dorado", "dugong", "urchin", "limpet", "sponge", "winkle", "conger", "darter", "sucker"],
-        "7": ["catfish", "lobster", "herring", "sardine", "snapper", "grouper", "anchovy", "piranha", "halibut", "haddock", "anemone", "codfish", "dogfish", "garfish", "gurnard", "lamprey", "oarfish", "sunfish", "sculpin", "whiting"],
-        "8": ["mackerel", "starfish", "sturgeon", "flounder", "blowfish", "pilchard", "seahorse", "crawfish", "barnacle", "stingray", "albacore", "bluegill", "crayfish", "kingfish", "lionfish", "monkfish", "sailfish", "tilefish", "wolffish"]
+        "7": ["catfish", "lobster", "herring", "sardine", "snapper", "grouper", "anchovy", "piranha", "halibut", "haddock", "anemone", "codfish", "dogfish", "garfish", "gurnard", "lamprey", "oarfish", "sunfish", "sculpin", "whiting"]
     },
     "facts": {
         "bass": "Bass is a popular fish found in both fresh and salt water.",
@@ -88,25 +87,6 @@
         "oarfish": "Oarfish is a very long, ribbon-shaped deep-sea fish.",
         "sunfish": "Sunfish is a huge, round ocean fish known for basking near the surface.",
         "sculpin": "Sculpin is a spiny fish that lives near the sea floor.",
-        "whiting": "Whiting is a small, silvery fish related to cod.",
-        "mackerel": "Mackerel is a fast-swimming, striped fish found in the sea.",
-        "starfish": "A starfish is a sea creature with five or more arms.",
-        "sturgeon": "Sturgeon is a large, ancient fish known for its bony plates.",
-        "flounder": "Flounder is a flat fish that lies on the sea floor.",
-        "blowfish": "Blowfish is a fish that puffs up its body to scare off predators.",
-        "pilchard": "A pilchard is a small, oily sea fish, also called a sardine.",
-        "seahorse": "A seahorse is a small fish with a horse-shaped head and a curled tail.",
-        "crawfish": "Crawfish is a small freshwater shellfish similar to a lobster.",
-        "barnacle": "A barnacle is a small shelled creature that clings to rocks and boats.",
-        "stingray": "A stingray is a flat fish with a whip-like tail bearing a spine.",
-        "albacore": "Albacore is a species of tuna found in warm ocean waters.",
-        "bluegill": "Bluegill is a small freshwater fish popular with anglers.",
-        "crayfish": "Crayfish is a small freshwater shellfish resembling a lobster.",
-        "kingfish": "Kingfish is a large, fast-swimming ocean fish.",
-        "lionfish": "Lionfish is a fish with venomous, feathery spines.",
-        "monkfish": "Monkfish is a fish known for its large head and firm tail meat.",
-        "sailfish": "Sailfish is a fast fish with a tall, sail-like fin on its back.",
-        "tilefish": "Tilefish is a colourful fish found near burrows on the sea floor.",
-        "wolffish": "Wolffish is a large fish with strong jaws and prominent teeth."
+        "whiting": "Whiting is a small, silvery fish related to cod."
     }
 }

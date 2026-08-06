@@ -1,13 +1,12 @@
 {
     "category": "Animals",
-    "version": 3,
+    "version": 4,
     "words": {
         "3": ["cat", "dog", "cow", "hen", "pig", "rat", "bat", "ant", "ape", "emu", "fox", "owl", "yak", "ram", "elk", "jay", "bee", "gnu", "fly", "bug"],
         "4": ["bear", "deer", "frog", "lion", "duck", "goat", "lamb", "mole", "seal", "wolf", "bull", "calf", "crow", "dove", "hare", "hawk", "mare", "moth", "newt", "pony"],
         "5": ["eagle", "horse", "whale", "tiger", "snake", "shark", "camel", "bison", "crane", "otter", "goose", "mouse", "raven", "robin", "stork", "zebra", "hippo", "koala", "llama", "moose"],
         "6": ["rabbit", "parrot", "jaguar", "badger", "ferret", "donkey", "falcon", "lizard", "monkey", "turtle", "beaver", "coyote", "pigeon", "walrus", "weasel", "alpaca", "iguana", "osprey", "toucan", "condor"],
-        "7": ["dolphin", "giraffe", "penguin", "buffalo", "cheetah", "gorilla", "hamster", "panther", "pelican", "sparrow", "chicken", "gazelle", "leopard", "macaque", "manatee", "mustang", "octopus", "raccoon", "termite", "wallaby"],
-        "8": ["elephant", "flamingo", "hedgehog", "kangaroo", "squirrel", "antelope", "chipmunk", "reindeer", "tortoise", "pheasant", "aardvark", "bluebird", "cardinal", "cockatoo", "mongoose", "parakeet", "platypus", "porpoise", "pangolin", "mandrill"]
+        "7": ["dolphin", "giraffe", "penguin", "buffalo", "cheetah", "gorilla", "hamster", "panther", "pelican", "sparrow", "chicken", "gazelle", "leopard", "macaque", "manatee", "mustang", "octopus", "raccoon", "termite", "wallaby"]
     },
     "facts": {
         "cat": "A cat is a small, furry pet known for chasing mice and purring.",
@@ -109,26 +108,6 @@
         "octopus": "An octopus is a sea creature with eight arms and no bones.",
         "raccoon": "A raccoon is a masked, ring-tailed mammal known for its clever paws.",
         "termite": "A termite is a small insect that lives in colonies and eats wood.",
-        "wallaby": "A wallaby is a small relative of the kangaroo found in Australia.",
-        "elephant": "An elephant is a huge gray mammal known for its long trunk and tusks.",
-        "flamingo": "A flamingo is a tall pink wading bird that often stands on one leg.",
-        "hedgehog": "A hedgehog is a small mammal covered in sharp spines for protection.",
-        "kangaroo": "A kangaroo is an Australian animal known for hopping on strong hind legs.",
-        "squirrel": "A squirrel is a small, bushy-tailed rodent that often climbs trees.",
-        "antelope": "An antelope is a graceful, fast-running horned animal found in Africa and Asia.",
-        "chipmunk": "A chipmunk is a small striped rodent that stores food in its cheeks.",
-        "reindeer": "A reindeer is a type of deer with large antlers found in cold northern regions.",
-        "tortoise": "A tortoise is a slow-moving land reptile with a hard, domed shell.",
-        "pheasant": "A pheasant is a colorful, long-tailed game bird.",
-        "aardvark": "An aardvark is a burrowing African mammal that feeds on ants and termites.",
-        "bluebird": "A bluebird is a small songbird with bright blue feathers.",
-        "cardinal": "A cardinal is a songbird known for the male's bright red feathers.",
-        "cockatoo": "A cockatoo is a crested parrot known for its loud call and bright feathers.",
-        "mongoose": "A mongoose is a small, quick mammal known for fighting snakes.",
-        "parakeet": "A parakeet is a small, colorful parrot often kept as a pet.",
-        "platypus": "A platypus is an unusual Australian mammal that lays eggs and has a duck bill.",
-        "porpoise": "A porpoise is a small marine mammal related to the dolphin.",
-        "pangolin": "A pangolin is a scaly mammal that curls into a ball for protection.",
-        "mandrill": "A mandrill is a large, colorful monkey found in the forests of Central Africa."
+        "wallaby": "A wallaby is a small relative of the kangaroo found in Australia."
     }
 }

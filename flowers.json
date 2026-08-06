@@ -1,11 +1,10 @@
 {
     "category": "Flowers",
-    "version": 3,
+    "version": 4,
     "words": {
         "5": ["daisy", "pansy", "tulip", "aster", "lilac", "poppy", "peony", "lupin", "viola", "stock", "tansy", "phlox", "orris"],
         "6": ["orchid", "dahlia", "crocus", "azalea", "violet", "zinnia", "cosmos", "salvia", "hyssop", "mallow", "cactus", "nerine", "cleome", "thrift", "yarrow", "spurge", "clover", "sundew", "oxalis"],
-        "7": ["jasmine", "petunia", "freesia", "fuchsia", "begonia", "lobelia", "campion", "verbena", "anemone", "primula", "cowslip", "gerbera", "alyssum", "lantana", "nigella", "nemesia", "mimulus", "statice", "deutzia"],
-        "8": ["lavender", "bluebell", "daffodil", "marigold", "snowdrop", "hyacinth", "geranium", "gardenia", "hibiscus", "camellia", "foxglove", "primrose", "magnolia", "clematis", "cyclamen", "dianthus", "gloxinia", "wisteria", "amaranth", "larkspur"]
+        "7": ["jasmine", "petunia", "freesia", "fuchsia", "begonia", "lobelia", "campion", "verbena", "anemone", "primula", "cowslip", "gerbera", "alyssum", "lantana", "nigella", "nemesia", "mimulus", "statice", "deutzia"]
     },
     "facts": {
         "daisy": "Daisy is a small flower with white petals around a yellow centre.",
@@ -58,26 +57,6 @@
         "nemesia": "Nemesia is a flower with small, colourful, fragrant blooms.",
         "mimulus": "Mimulus is a flower also called the monkey flower.",
         "statice": "Statice is a flower valued for its papery, long-lasting blooms.",
-        "deutzia": "Deutzia is a shrub with clusters of small white or pink flowers.",
-        "lavender": "Lavender is a fragrant purple flower often used in perfume.",
-        "bluebell": "Bluebell is a woodland flower with nodding, blue bell-shaped blooms.",
-        "daffodil": "Daffodil is a bright yellow, trumpet-shaped spring flower.",
-        "marigold": "Marigold is a flower with bright orange or yellow blooms.",
-        "snowdrop": "Snowdrop is a small white flower that blooms in late winter.",
-        "hyacinth": "Hyacinth is a flower with tightly packed, fragrant blooms.",
-        "geranium": "Geranium is a flower with rounded leaves and bright petals.",
-        "gardenia": "Gardenia is a flower prized for its creamy petals and rich scent.",
-        "hibiscus": "Hibiscus is a flower with large, trumpet-shaped blooms.",
-        "camellia": "Camellia is a flower with glossy leaves and rose-like blooms.",
-        "foxglove": "Foxglove is a tall flower with spikes of bell-shaped blooms.",
-        "primrose": "Primrose is a flower with pale yellow blooms that appear in spring.",
-        "magnolia": "Magnolia is a flower known for its large, showy, waxy petals.",
-        "clematis": "Clematis is a climbing flower with large, star-shaped blooms.",
-        "cyclamen": "Cyclamen is a flower with swept-back petals and heart-shaped leaves.",
-        "dianthus": "Dianthus is a flower with fringed petals, also called pinks.",
-        "gloxinia": "Gloxinia is a flower with large, velvety, bell-shaped blooms.",
-        "wisteria": "Wisteria is a climbing plant with hanging clusters of purple blooms.",
-        "amaranth": "Amaranth is a flower with long, trailing tassels of blooms.",
-        "larkspur": "Larkspur is a flower with tall spikes of blue or purple blooms."
+        "deutzia": "Deutzia is a shrub with clusters of small white or pink flowers."
     }
 }

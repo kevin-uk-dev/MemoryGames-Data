@@ -1,12 +1,11 @@
 {
     "category": "Clothing",
-    "version": 4,
+    "version": 5,
     "words": {
         "4": ["boot", "coat", "gown", "vest", "belt", "cape", "robe", "sock", "wrap", "suit", "kilt", "muff", "sari", "tutu", "toga", "cowl", "clog", "sash", "slip", "hood"],
         "5": ["dress", "glove", "jeans", "scarf", "shirt", "skirt", "shawl", "cloak", "apron", "parka", "tunic", "smock", "beret", "stole", "frock", "visor", "pumps", "thong", "teddy", "wader"],
         "6": ["blazer", "bonnet", "jacket", "jumper", "sandal", "shorts", "tuxedo", "anorak", "bikini", "mitten", "blouse", "briefs", "corset", "fedora", "girdle", "jersey", "kimono", "poncho", "sarong", "turban"],
-        "7": ["sweater", "necktie", "overall", "pajamas", "slipper", "sneaker", "leotard", "tankini", "rompers", "uniform", "bustier", "chemise", "doublet", "garment", "hosiery", "singlet", "topcoat", "yashmak", "cassock", "mantlet"],
-        "8": ["cardigan", "overcoat", "swimsuit", "raincoat", "pullover", "camisole", "leggings", "bathrobe", "jumpsuit", "coverall", "knickers", "negligee", "trousers", "breeches", "gauntlet", "jodhpurs", "kerchief", "mackinaw", "vestment"]
+        "7": ["sweater", "necktie", "overall", "pajamas", "slipper", "sneaker", "leotard", "tankini", "rompers", "uniform", "bustier", "chemise", "doublet", "garment", "hosiery", "singlet", "topcoat", "yashmak", "cassock", "mantlet"]
     },
     "facts": {
         "boot": "A boot is a sturdy shoe that covers the foot and ankle.",
@@ -88,25 +87,6 @@
         "topcoat": "A topcoat is a lightweight coat worn over other clothing.",
         "yashmak": "A yashmak is a veil covering the lower face, worn traditionally.",
         "cassock": "A cassock is a long robe traditionally worn by clergy.",
-        "mantlet": "A mantlet is a short cloak or cape worn over the shoulders.",
-        "cardigan": "A cardigan is a knitted jacket that fastens down the front.",
-        "overcoat": "An overcoat is a heavy coat worn over other clothing in cold weather.",
-        "swimsuit": "A swimsuit is a garment worn for swimming.",
-        "raincoat": "A raincoat is a waterproof coat worn to stay dry in the rain.",
-        "pullover": "A pullover is a knitted garment pulled on over the head.",
-        "camisole": "A camisole is a light, sleeveless top worn under clothing.",
-        "leggings": "Leggings are close-fitting, stretchy trousers.",
-        "bathrobe": "A bathrobe is a loose robe worn before or after bathing.",
-        "jumpsuit": "A jumpsuit is a one-piece garment combining a top and trousers.",
-        "coverall": "A coverall is a one-piece protective garment worn over clothes.",
-        "knickers": "Knickers are a piece of underwear worn by women.",
-        "negligee": "A negligee is a light, decorative dressing gown or nightdress.",
-        "trousers": "Trousers are a garment covering the legs separately, worn from the waist.",
-        "breeches": "Breeches are trousers that fasten just below the knee.",
-        "gauntlet": "A gauntlet is a protective glove that covers part of the arm.",
-        "jodhpurs": "Jodhpurs are riding trousers, fitted at the calf and loose at the hip.",
-        "kerchief": "A kerchief is a piece of cloth worn over the head or around the neck.",
-        "mackinaw": "A mackinaw is a heavy, woollen jacket worn in cold climates.",
-        "vestment": "A vestment is a special garment worn by clergy during services."
+        "mantlet": "A mantlet is a short cloak or cape worn over the shoulders."
     }
 }

@@ -1,12 +1,11 @@
 {
     "category": "Countries",
-    "version": 3,
+    "version": 4,
     "words": {
         "4": ["chad", "cuba", "fiji", "iran", "iraq", "laos", "mali", "oman", "peru", "togo"],
         "5": ["chile", "china", "egypt", "ghana", "india", "italy", "japan", "kenya", "spain", "nepal", "benin", "gabon", "haiti", "libya", "malta", "niger", "qatar", "samoa", "syria", "tonga"],
         "6": ["brazil", "canada", "greece", "jordan", "mexico", "norway", "poland", "russia", "sweden", "france", "belize", "bhutan", "brunei", "cyprus", "guyana", "israel", "kuwait", "latvia", "malawi", "panama"],
-        "7": ["algeria", "austria", "belgium", "croatia", "denmark", "ecuador", "finland", "germany", "hungary", "ireland", "andorra", "bahrain", "bolivia", "burundi", "comoros", "eritrea", "georgia", "grenada", "iceland", "jamaica"],
-        "8": ["cambodia", "colombia", "ethiopia", "malaysia", "mongolia", "pakistan", "portugal", "thailand", "paraguay", "botswana", "barbados", "cameroon", "djibouti", "dominica", "honduras", "kiribati", "maldives", "tanzania", "zimbabwe", "suriname"]
+        "7": ["algeria", "austria", "belgium", "croatia", "denmark", "ecuador", "finland", "germany", "hungary", "ireland", "andorra", "bahrain", "bolivia", "burundi", "comoros", "eritrea", "georgia", "grenada", "iceland", "jamaica"]
     },
     "facts": {
         "chad": "Chad is a landlocked country in north-central Africa known for Lake Chad.",
@@ -78,26 +77,6 @@
         "georgia": "Georgia is a country at the crossroads of Europe and Asia, near the Caucasus mountains.",
         "grenada": "Grenada is a Caribbean island nation known as the Spice Isle.",
         "iceland": "Iceland is a Nordic island nation known for volcanoes and geysers.",
-        "jamaica": "Jamaica is a Caribbean island nation known for reggae music.",
-        "cambodia": "Cambodia is a Southeast Asian country home to the ancient temples of Angkor Wat.",
-        "colombia": "Colombia is a South American country known for its coffee and biodiversity.",
-        "ethiopia": "Ethiopia is an East African country known for its ancient rock-hewn churches.",
-        "malaysia": "Malaysia is a Southeast Asian country known for the towering Petronas Towers.",
-        "mongolia": "Mongolia is a vast East Asian country known for its wide open steppes.",
-        "pakistan": "Pakistan is a South Asian country home to some of the world's highest mountains.",
-        "portugal": "Portugal is a Western European country known for its historic seafaring past.",
-        "thailand": "Thailand is a Southeast Asian country known for its ornate Buddhist temples.",
-        "paraguay": "Paraguay is a landlocked South American country known for its river system.",
-        "botswana": "Botswana is a Southern African country known for the Kalahari Desert.",
-        "barbados": "Barbados is a Caribbean island nation known for its sandy beaches.",
-        "cameroon": "Cameroon is a Central African country known for its varied landscapes.",
-        "djibouti": "Djibouti is a small East African country on the Horn of Africa.",
-        "dominica": "Dominica is a Caribbean island nation known as the Nature Isle.",
-        "honduras": "Honduras is a Central American country known for its Caribbean coral reefs.",
-        "kiribati": "Kiribati is a Pacific island nation spread across the equator.",
-        "maldives": "Maldives is an island nation in the Indian Ocean known for its coral atolls.",
-        "tanzania": "Tanzania is an East African country home to Mount Kilimanjaro.",
-        "zimbabwe": "Zimbabwe is a Southern African country home to Victoria Falls.",
-        "suriname": "Suriname is a small South American country known for its dense rainforest."
+        "jamaica": "Jamaica is a Caribbean island nation known for reggae music."
     }
 }

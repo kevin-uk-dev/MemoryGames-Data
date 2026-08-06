@@ -1,12 +1,11 @@
 {
     "category": "Fruits",
-    "version": 4,
+    "version": 5,
     "words": {
         "4": ["kiwi", "lime", "pear", "plum", "date", "sloe", "noni", "ugli", "goji", "gage", "yuzu", "nipa", "bael", "haws"],
         "5": ["apple", "grape", "lemon", "mango", "melon", "peach", "guava", "olive", "prune", "berry", "papaw", "gourd", "naras", "navel"],
         "6": ["banana", "cherry", "orange", "papaya", "lychee", "quince", "damson", "longan", "durian", "medlar", "pomelo", "pawpaw", "feijoa", "jujube", "sapote", "casaba", "citron", "muscat", "raisin", "tomato"],
-        "7": ["avocado", "apricot", "coconut", "kumquat", "satsuma", "tangelo", "currant", "sultana", "soursop", "morello", "rosehip", "genipap", "atemoya", "calaloo"],
-        "8": ["mandarin", "tamarind", "honeydew", "rambutan", "bilberry", "mulberry", "plantain", "bergamot", "dewberry", "bayberry", "tayberry", "physalis", "barberry", "canistel"]
+        "7": ["avocado", "apricot", "coconut", "kumquat", "satsuma", "tangelo", "currant", "sultana", "soursop", "morello", "rosehip", "genipap", "atemoya", "calaloo"]
     },
     "facts": {
         "kiwi": "A kiwi is a small fruit with fuzzy skin and bright green flesh.",
@@ -70,20 +69,6 @@
         "rosehip": "A rosehip is the small red fruit that forms after a rose flower blooms.",
         "genipap": "A genipap is a tropical fruit with sweet, dark pulp often used in drinks.",
         "atemoya": "An atemoya is a sweet tropical fruit that is a cross between two custard apple relatives.",
-        "calaloo": "A calaloo is a tropical plant whose leaves and fruit are used in Caribbean cooking.",
-        "mandarin": "A mandarin is a small, sweet citrus fruit with easy-to-peel skin.",
-        "tamarind": "A tamarind is a fruit with sour-sweet pulp held inside a brown pod.",
-        "honeydew": "A honeydew is a melon with smooth pale green skin and sweet green flesh.",
-        "rambutan": "A rambutan is a tropical fruit covered in soft, hairy red spines.",
-        "bilberry": "A bilberry is a small, dark blue berry similar to a blueberry.",
-        "mulberry": "A mulberry is a small, juicy berry that grows on mulberry trees.",
-        "plantain": "A plantain is a starchy fruit similar to a banana that is usually cooked before eating.",
-        "bergamot": "A bergamot is a fragrant citrus fruit prized for its aromatic peel.",
-        "dewberry": "A dewberry is a small, dark berry similar to a blackberry.",
-        "bayberry": "A bayberry is a small, waxy berry that grows on shrubs near the coast.",
-        "tayberry": "A tayberry is a large, sweet berry that is a cross between a blackberry and a raspberry.",
-        "physalis": "A physalis is a small orange berry wrapped in a papery husk.",
-        "barberry": "A barberry is a small, tart, red berry that grows on a thorny shrub.",
-        "canistel": "A canistel is a tropical fruit with smooth, sweet yellow flesh."
+        "calaloo": "A calaloo is a tropical plant whose leaves and fruit are used in Caribbean cooking."
     }
 }
